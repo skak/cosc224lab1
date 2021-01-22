@@ -1,10 +1,5 @@
 Favorite Birds:
-<<<<<<< HEAD
 1. Dakota - Raggiana bird-of-paradise (but actually I love all birds)
-2.
-=======
-1. Dakota - Raggiana bird-of-paradise (but actually I hate birds)
-2. Rosel - Talking Myna
->>>>>>> origin/master
+2. Chris - Cuckoo
 3. Terra - Crow
-4.
+4. Rosel - Pigeon 

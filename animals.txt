@@ -10,4 +10,6 @@ Fish
 Bird
 -crow
 -raggiana
+ChocolateMakers
+-oompaloompa
 

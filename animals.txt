@@ -1,13 +1,16 @@
 Mammals
 -wolf
 -dog
+-dolphin
 Reptiles
 -crocodile
 -snek
+-gecko
 Fish
 -salmon
 -betta
+-koi
 Bird
 -crow
 -raggiana
-
+-pigeon

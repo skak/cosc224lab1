@@ -15,10 +15,6 @@ Bird
 -raggiana_Dakota
 -pigeon_Rosel
 ChocolateMakers
-<<<<<<< HEAD
 - oompaloompa
 Ancient Gold Dragon
->>>>>>> 61ac6197db80ad9fca651e4c2efee85539fe3f73
-=======
--oompaloompa
->>>>>>> 7e321f10b6a3a4bf1610e6ec52d2d126e583d574
+

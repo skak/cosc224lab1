@@ -1,13 +1,13 @@
-Mannals
+Mammals
 -wolf
-
+-dog
 Reptiles
 -crocodile
-
+-snek
 Fish
 -salmon
-
+-betta
 Bird
 -crow
-
+-raggiana
 

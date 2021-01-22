@@ -13,10 +13,6 @@ Fish
 Bird
 -crow_Terra
 -raggiana_Dakota
-<<<<<<< HEAD
 -pigeon_Rosel
-=======
 ChocolateMakers
 -oompaloompa
-
->>>>>>> 61ac6197db80ad9fca651e4c2efee85539fe3f73

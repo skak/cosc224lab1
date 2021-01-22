@@ -1,0 +1,13 @@
+Mannals
+-wolf
+
+Reptiles
+-crocodile
+
+Fish
+-salmon
+
+Bird
+-crow
+
+

@@ -1,0 +1,5 @@
+RoselFish.txt
+1 koi - Rosel
+2 Salmon - Terra
+3 Carp - Chris
+4 Betta - Dakota

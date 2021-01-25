@@ -2,4 +2,4 @@ TerraMammals.txt
 1. Wolf - Terra
 2. Dog - Dakota
 3. Cheetah - Chris
-4. Dolphin - Rosel
+4. Horse - Rosel
